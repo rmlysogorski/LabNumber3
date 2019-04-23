@@ -1,0 +1,7 @@
+C:\Users\Richie\source\repos\LabNumber3\LabNumber3\bin\Debug\LabNumber3.exe.config
+C:\Users\Richie\source\repos\LabNumber3\LabNumber3\bin\Debug\LabNumber3.exe
+C:\Users\Richie\source\repos\LabNumber3\LabNumber3\bin\Debug\LabNumber3.pdb
+C:\Users\Richie\source\repos\LabNumber3\LabNumber3\obj\Debug\LabNumber3.csprojAssemblyReference.cache
+C:\Users\Richie\source\repos\LabNumber3\LabNumber3\obj\Debug\LabNumber3.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\LabNumber3\LabNumber3\obj\Debug\LabNumber3.exe
+C:\Users\Richie\source\repos\LabNumber3\LabNumber3\obj\Debug\LabNumber3.pdb
